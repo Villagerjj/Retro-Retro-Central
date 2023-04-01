@@ -1,6 +1,6 @@
 body {
   background-color: rgb(5, 21, 56);
-  background-image: url(/Gifs/sparklebackground.gif);
+  background-image: url(https://github.com/Villagerjj/Retro-Retro-Central/blob/f27d45cf7e403d7e2d11649d4bd24e0cd4e3f059/gifs/sparklebackground.gif);
 }
 
 * {
@@ -64,7 +64,7 @@ nav#menu ul {
   top: 0px;
   bottom: 0px;
   background-color: rgb(147, 30, 177);
-  background-image: url(/Gifs/nightandstarsbackground.gif);
+  background-image: url(https://github.com/Villagerjj/Retro-Retro-Central/blob/f27d45cf7e403d7e2d11649d4bd24e0cd4e3f059/gifs/nightandstarsbackground.gif);
   border: rgb(248, 248, 176) 10px solid;
   width: 190px;
   padding: 20px;
