@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Warnes&display=swap');
 
 html, body {
-    background-image: url("gifs/mariobroswallpaper.gif");
+    background-image: url("../gifs/mariobroswallpaper.gif");
     background-color: white;
+    background-repeat: no-repeat;
     max-width: 100%;
     overflow-x: hidden;
 }
