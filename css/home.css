@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Warnes&display=swap');
 
 html, body {
-    background-image: url(https://github.com/Villagerjj/Retro-Retro-Central/blob/1b9e36215b8637da6f9830d7bd2f458b01a4f425/gifs/mariobroswallpaper.gif?raw=true);
+    background-image: url("https://github.com/Villagerjj/Retro-Retro-Central/blob/1b9e36215b8637da6f9830d7bd2f458b01a4f425/gifs/mariobroswallpaper.gif?raw=true");
     background-color: white;
     background-repeat: no-repeat;
     max-width: 100%;
@@ -121,7 +121,7 @@ nav#menu ul {
     top: 0px;
     bottom: 0px;
     background-color: rgb(28, 2, 43);
-    background-image: url(https://github.com/Villagerjj/Retro-Retro-Central/blob/1b9e36215b8637da6f9830d7bd2f458b01a4f425/gifs/mariobroswallpaper.gif?raw=true);
+    background-image: url("https://github.com/Villagerjj/Retro-Retro-Central/blob/1b9e36215b8637da6f9830d7bd2f458b01a4f425/gifs/mariobroswallpaper.gif?raw=true");
     border: rgb(139, 139, 138) 10px solid;
     width: 220px;
     padding: 20px;
